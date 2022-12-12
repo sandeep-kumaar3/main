@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/sandeep_cv.pdf", title: "Curriculum Vitae"}
-  - {file: "/sandeep_ps.pdf", title: "Personal Statement"}
+  - {file: "sandeep_cv.pdf", title: "Curriculum Vitae"}
+  - {file: "sandeep_ps.pdf", title: "Personal Statement"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sandeep.kummar@icloud.com"}
