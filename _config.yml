@@ -16,13 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "CV.md", title: "CV"}
+  - {file: "Personal Statement.md", title: "Personal Statement"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:sandeep.kumaar@icould.com"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
+  - {title: Mail, icon: envelope, url: "mailto:sandeep.kummar@icloud.com"}
+  - {title: Linkedin, icon: linkedin, url: "https://linkedin.com/in/sandeep-kumar-97637374/"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
