@@ -1,5 +1,5 @@
 ---
-title: "Sandeep Kumar's Personal Statement"
+title: "Statement of Purpose"
 layout: page
 ---
 
