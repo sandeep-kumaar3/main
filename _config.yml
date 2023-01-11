@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "Curriculum Vitae"}
-  - {file: "sop/sop.md", title: "Statement of Purpose"}
+  - {file: "sop.md", title: "Statement of Purpose"}
   - {file: "ps.md", title: "Personal Statement"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
